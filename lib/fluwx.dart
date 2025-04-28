@@ -22,7 +22,7 @@
 ///
 ///  A open sou;rce project authorized by [OpenFlutter](https://github.com/OpenFlutter).
 library fluwx;
-
+/// Fluwx is a powerful plugin for WeChatSDK.
 export 'src/fluwx.dart';
 export 'src/foundation/arguments.dart';
 export 'src/foundation/cancelable.dart' hide FluwxCancelableImpl;
